@@ -26,5 +26,7 @@ python search_dense.py
 ### dense retrieval finetuning code
 Biencoder, cross encoder, dpr 방식등 학습 방법이 다양합니다. 아래 링크에서 학습코드를 확인하실 수 있습니다.
 sentencetransformer: https://www.sbert.net/docs/training/overview.html
+
 beir(biencoder + loss 함수 변형): https://github.com/beir-cellar/beir/blob/main/examples/retrieval/training/train_msmarco_v3_bpr.py
+
 Haystack(dpr): https://github.com/deepset-ai/haystack-tutorials/tree/main/tutorials
